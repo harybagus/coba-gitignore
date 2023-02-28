@@ -1,0 +1,6 @@
+# git ignore digunakan untuk mengabaikan file atau folder yang didaftarkan di file .gitignore,
+# agar saat di add di git maupun github maka filenya akan diabaikan, dan tidak ikut di add.
+
+config.txt
+data/
+*.exe
